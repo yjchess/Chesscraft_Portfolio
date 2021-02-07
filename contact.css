@@ -1,0 +1,31 @@
+.inputwrapper{
+    margin-bottom: 20px;
+}
+
+input[type=text], input[type=email], textarea{
+    padding: 12px 20px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.85rem;
+    box-sizing: border-box;
+}
+
+.newline{
+    display:block;
+    margin-bottom: 10px;
+}
+
+.margin-right-a {
+    margin-right: 20px;
+}
+
+input[type=radio]{
+    margin-right: 10px;
+}
+
+form{
+    background-color: rgba(128, 128, 128, 0.426);
+    padding: 20px 10px;
+    margin: 20px 0px;
+    border-radius: 10px;
+}

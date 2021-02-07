@@ -1,0 +1,29 @@
+section ol{
+    color:white;
+    margin-left:10px;
+    margin-right:40px;
+    text-align: justify;
+}
+section ol li{
+    padding-bottom: 10px;
+
+}
+
+section p{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+span.red{
+    color:red;
+    font-weight: bold;
+}
+
+section{
+    margin:0;
+}
+
+section section{
+    padding:10px;
+    margin: 10px;
+}

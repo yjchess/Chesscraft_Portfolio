@@ -1,0 +1,49 @@
+@media (max-width: 902px){
+
+    .card1, .card2, .card3, .card4, .card5, .card6{
+        width: 45%;
+    }
+
+
+
+}
+
+@media (max-width: 910px){
+
+    .herobox1{
+        flex:1;
+    }
+
+    .herobox2{
+        flex:1;
+    }
+
+    .herobox2 img{
+
+        max-height:400px;
+    }
+
+
+}
+
+@media (max-width: 810px){
+
+    main{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content:space-around;
+    }
+
+    .herobox1{
+        display:inline;
+    }
+
+    .herobox2{
+        flex:none;
+        max-width:100%;
+    }
+
+
+
+}
+

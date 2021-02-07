@@ -1,0 +1,32 @@
+
+
+main{
+    display: inline-block;  
+  }
+
+main h1{
+    text-align: center;
+}
+
+
+.container h2{
+  padding:0;
+}
+
+.container section{
+  margin:0;
+  padding: 20px;
+}
+
+
+iframe{
+  height:800px;
+  border-radius: 10px;
+  border: 5px solid black;
+}
+
+.container .special{
+  background-color:dimgrey;
+  margin-right:  -50px;
+  margin-left:  -50px;
+}

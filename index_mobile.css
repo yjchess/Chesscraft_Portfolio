@@ -1,0 +1,53 @@
+
+
+@media (max-width: 630px){
+
+    .cards{
+        justify-content: center;
+    }
+
+    .card1, .card2, .card3, .card4, .card5, .card6{
+        width: 65%;
+
+    }
+
+    .herobox2 img{
+        height:unset;
+    }
+
+
+
+}
+
+@media (max-width: 430px){
+
+    .card1, .card2, .card3, .card4, .card5, .card6{
+        width: 90%;
+    }
+
+
+
+}
+
+@media (max-width: 370px){
+
+    .card1, .card2, .card3, .card4, .card5, .card6{
+        width: 90%;
+        height: fit-content
+    }
+
+
+
+}
+
+@media (max-width: 340px){
+
+    .card1, .card2, .card3, .card4, .card5, .card6{
+
+        width:fit-content;
+        height: fit-content
+    }
+
+
+
+}

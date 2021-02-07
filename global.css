@@ -1,0 +1,75 @@
+
+body{
+  margin:0;
+}
+
+main{
+  display: block;
+}
+
+main h1{
+  text-align: center;
+}
+
+.media-cards{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .mcard1{
+    text-decoration: underline;
+    background-color: teal;
+    width:max-content;
+    text-align: center;
+    margin: 10px auto;
+    border-radius: 10px;
+    border:10px solid lightblue;
+  }
+
+  .mcard2{
+    text-decoration: underline;
+    background-color: teal;
+    width:max-content;
+
+    margin: 10px;
+    border-radius: 10px;
+    border:10px solid lightblue;
+  }
+
+  .mcard3{
+    text-decoration: underline;
+    background-color: teal;
+
+    justify-content: flex-end;
+    margin: 10px auto;
+    border-radius: 10px;
+    border:10px solid red;
+  }
+
+
+  a:hover{
+    color: white;
+  }
+
+
+  span.keyword{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    display:inline-block;
+    padding:0.5rem;
+    margin-bottom: 5px;
+    text-align: left;
+
+  }
+
+  .container{
+    max-width:1024px;
+  }
+
+
+  .flexContainer{
+    display:flex;
+    justify-content: center;
+  }
+
